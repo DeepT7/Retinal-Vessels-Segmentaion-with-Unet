@@ -1,0 +1,8 @@
+albumentations
+imageio
+numpy
+opencv-python
+Pillow
+PySide6
+scikit-learn
+torch
